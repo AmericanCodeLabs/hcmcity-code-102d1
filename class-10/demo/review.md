@@ -5,9 +5,9 @@ What do y'all want to talk about?
 ## Tools for the final
 
 - replit.com - for JavaScript
-  - My repl: [https://replit.com/@KassieBradshaw/review102d45#index.js](https://replit.com/@KassieBradshaw/review102d45#index.js)
+  - My repl: [https://replit.com/@KhoanGip/Review102d1#index.js](https://replit.com/@KhoanGip/Review102d1#index.js)
 - codepen.io - for HTML & CSS
-  - My codepen: [https://codepen.io/kassiebradshaw/pen/wvXPYVG](https://codepen.io/kassiebradshaw/pen/wvXPYVG)
+  - My codepen: [https://codepen.io/KhoanLab/pen/XWYPXPe](https://codepen.io/KhoanLab/pen/XWYPXPe)
 
 ## Loops
 

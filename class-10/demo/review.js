@@ -1,5 +1,5 @@
 // Link to my replit for review: 
-// https://replit.com/@KassieBradshaw/review102d45#index.js
+// https://replit.com/@KhoanGip/Review102d1#index.js
 
 // function 2 ways
 
